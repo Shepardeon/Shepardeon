@@ -7,8 +7,8 @@ Software Engineer
 I've been coding since I was in middle school. Started with Java, but today I much prefer using C# when I can. I love game development even though I didn't make a lot of games.
 
 * 🌍  I'm based in France
-* 🚀  I'm currently working on [LunaSpark](http://github.com/Shepardeon/LunaSpark)
-* 🧠  I'm learning Monogame, OpenGL
+* 🚀  I'm currently working on [LYCANS MODDING Community](https://github.com/lycans-modding)
+* 🧠  I'm learning Monogame, OpenGL, Modding
 * 🤝  I'm open to collaborating on game dev projects
 * ⚡  I named my cat Google
 
