@@ -4,11 +4,11 @@ Hi 👋 My name is Shepardeon
 Software Engineer
 -----------------
 
-I've been coding since I was in middle school. Started with Java, but today I much prefer using C# when I can. I love game development even though I didn't make a lot of games.
+I've been coding since I was in middle school. Started with Java, but today I much prefer using C# when I can. I love game development even though I didn't make a lot of games. I also enjoy cybersecurity and pentesting a lot, mainly on Hack The Box.
 
 * 🌍  I'm based in France
-* 🚀  I'm currently working on [LYCANS MODDING Community](https://github.com/lycans-modding)
-* 🧠  I'm learning Monogame, OpenGL, Modding
+* 🚀  I'm currently working on [Hack The Box]([https://github.com/lycans-modding](https://github.com/Shepardeon/HTB-Obsidian))
+* 🧠  I'm learning Pentesting and Hacking on Hack The Box
 * 🤝  I'm open to collaborating on game dev projects
 * ⚡  I named my cat Google
 
